@@ -16,7 +16,7 @@
     + [医学論文 by イェール大学](https://github.com/hiyaoroshi/coursera_yale_medical/blob/master/README.md)
     + [金融市場 by イェール大学](https://github.com/hiyaoroshi/coursera_yale_financial/blob/master/README.md)
 + Coursera字幕翻訳tips： ツール（スマートリンク）を使った字幕作成手順で留意したこと等
-    + [参考図書](参考図書_イェール_金融市場.md)
+    + [Coursera字幕翻訳Tips](Coursera字幕翻訳Tips.md)
 + 翻訳全般についての参考図書
     + [翻訳全般についての参考図書](翻訳全般についての参考図書.md)
 
